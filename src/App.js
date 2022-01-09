@@ -1,8 +1,8 @@
-
+import { Home } from './pages/HomePage'
 
 function App() {
   return (
-    <div className='text-blue-200 text-sm font-bold'> Header !</div>
+    <Home />
   );
 }
 
